@@ -1,54 +1,19 @@
-<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en">
+<?xml version="1.0"?>
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en" authors="Jeffrey Mahr">
   <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
-  <md:content-id>col11584</md:content-id>
-  <md:title>Biological Macromolecules (GPC)</md:title>
-  
-  
-  <md:license url="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution License 3.0</md:license>
-  <md:language>en</md:language>
-
-  
-
-  
-  
-  
-  
-  
-
-  <md:uuid>1f0d866a-cc28-4e45-b525-9d570edb8041</md:uuid>
-<md:slug>biological-macromolecules-gpc</md:slug>
-</metadata>
-
+    <md:content-id>col11584</md:content-id>
+    <md:title>Biological Macromolecules (GPC)</md:title>
+    <md:license url="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution License 3.0</md:license>
+    <md:language>en</md:language>
+    <md:uuid>1f0d866a-cc28-4e45-b525-9d570edb8041</md:uuid>
+    <md:slug>biological-macromolecules-gpc</md:slug>
+  </metadata>
   <col:content>
-    
-      <col:module document="m47916"/>
-        
-      
-    
-    
-      <col:module document="m47926"/>
-        
-      
-    
-    
-      <col:module document="m47919"/>
-        
-      
-    
-    
-      <col:module document="m47920"/>
-        
-      
-    
-    
-      <col:module document="m47925"/>
-        
-      
-    
-    
-      <col:module document="m47923"/>
-        
-      
-    
+    <col:module document="m47916"/>
+    <col:module document="m47926"/>
+    <col:module document="m47919"/>
+    <col:module document="m47920"/>
+    <col:module document="m47925"/>
+    <col:module document="m47923"/>
   </col:content>
 </col:collection>
